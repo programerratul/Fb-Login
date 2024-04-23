@@ -1,0 +1,19 @@
+*{
+    margin: 0 ;
+    padding: 0;
+
+}
+p{
+    font-size: 28px;
+}
+.bg-light{
+    width: 100%;
+    height: 100vh;
+    
+}
+.page-link{
+    font-size: 15px;
+}
+.people-use{
+    font-size: 10px;
+}
